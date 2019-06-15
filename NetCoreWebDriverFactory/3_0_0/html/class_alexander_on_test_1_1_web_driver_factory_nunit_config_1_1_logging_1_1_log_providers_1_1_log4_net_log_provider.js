@@ -1,0 +1,8 @@
+var class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_log4_net_log_provider =
+[
+    [ "Log4NetLogProvider", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_log4_net_log_provider.html#a88dd72a42447d20f1bf40edf9d008204", null ],
+    [ "GetLogger", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_log4_net_log_provider.html#a5e3b18662f50f72b37e6c5cdb35faaee", null ],
+    [ "GetOpenMdcMethod", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_log4_net_log_provider.html#aa360afa0bdb6552b5e8c118b87e649ff", null ],
+    [ "GetOpenNdcMethod", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_log4_net_log_provider.html#ac886d6c5bbb9e1bed281f89a7951ae2b", null ],
+    [ "ProviderIsAvailableOverride", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_log4_net_log_provider.html#a82d9c5e342e6e8419d6ead110f54c86d", null ]
+];

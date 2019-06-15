@@ -1,0 +1,5 @@
+var namespace_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_test_settings =
+[
+    [ "Utils", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_test_settings_1_1_utils.html", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_test_settings_1_1_utils" ],
+    [ "WebDriverSettings", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_test_settings_1_1_web_driver_settings.html", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_test_settings_1_1_web_driver_settings" ]
+];

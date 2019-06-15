@@ -1,0 +1,7 @@
+var class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_loupe_log_provider =
+[
+    [ "LoupeLogProvider", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_loupe_log_provider.html#a07f78f46e73b759afc52e35824bcf4ae", null ],
+    [ "GetLogger", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_loupe_log_provider.html#a91542c285ebeb9bfb462427d843210ed", null ],
+    [ "IsLoggerAvailable", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_loupe_log_provider.html#a43caa6568a2edfc0862be0a8d58d37c2", null ],
+    [ "ProviderIsAvailableOverride", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_loupe_log_provider.html#ab2167a4c8d42171eed75cb04d704d0b3", null ]
+];

@@ -1,0 +1,8 @@
+var class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_serilog_log_provider =
+[
+    [ "SerilogLogProvider", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_serilog_log_provider.html#abaca9d1f64ee10b189616a2a893dcab1", null ],
+    [ "GetLogger", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_serilog_log_provider.html#abc1717f7f3d368110df5c5b882f4f308", null ],
+    [ "GetOpenMdcMethod", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_serilog_log_provider.html#afb55100463468d233ac8e3c839a422e2", null ],
+    [ "GetOpenNdcMethod", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_serilog_log_provider.html#add4f0b08d381a1e2f0fdd23c51b96456", null ],
+    [ "ProviderIsAvailableOverride", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_serilog_log_provider.html#a31f20b2888d1c51cb0f16514f00284d2", null ]
+];

@@ -1,0 +1,5 @@
+var class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_lib_log_exception =
+[
+    [ "LibLogException", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_lib_log_exception.html#a8c35e10fd68909f9b95dd7c226039338", null ],
+    [ "LibLogException", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_lib_log_exception.html#a36f2af269d7d6885de3895bf464ad459", null ]
+];

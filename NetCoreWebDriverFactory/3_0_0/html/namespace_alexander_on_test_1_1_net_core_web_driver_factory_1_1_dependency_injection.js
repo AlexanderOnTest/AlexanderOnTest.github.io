@@ -1,0 +1,4 @@
+var namespace_alexander_on_test_1_1_net_core_web_driver_factory_1_1_dependency_injection =
+[
+    [ "ServiceCollectionFactory", "class_alexander_on_test_1_1_net_core_web_driver_factory_1_1_dependency_injection_1_1_service_collection_factory.html", "class_alexander_on_test_1_1_net_core_web_driver_factory_1_1_dependency_injection_1_1_service_collection_factory" ]
+];

@@ -1,0 +1,5 @@
+var class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_log_message_formatter =
+[
+    [ "FormatStructuredMessage", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_log_message_formatter.html#a9dfa2d9c909a541355a950b77a689f31", null ],
+    [ "SimulateStructuredLogging", "class_alexander_on_test_1_1_web_driver_factory_nunit_config_1_1_logging_1_1_log_providers_1_1_log_message_formatter.html#a763976bea6dd43bd37ceb385ff2f292c", null ]
+];
